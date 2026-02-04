@@ -1,0 +1,24 @@
+
+
+
+
+	
+body
+{
+background: #91F6FA;
+background: linear-gradient(90deg, rgba(145, 246, 250, 1) 0%, rgba(255, 255, 255, 1) 30%, rgba(255, 255, 255, 1) 70%, rgba(145, 246, 250, 1) 100%);
+font-size: 35px;
+font-family:Arial;
+text-align: center;
+align-items: center;
+display: flex;
+flex-direction: column;
+}
+tr
+{
+	background:#FFFFFF
+}
+th
+{
+background:#d4e6fc
+}
